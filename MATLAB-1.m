@@ -207,7 +207,7 @@ while 1
 			%	Exit Program
 			% -------------------------------------------------------------------------------------
 			
-			disp( [ char(10) 'Thank you for using Grant Miller''s Assignment 1... Have a blessed day!' ] );
+			disp( [ char(10) 'Thank you for using Grant Miller''s Project... Have a blessed day!' ] );
 			break
 			
 		otherwise
